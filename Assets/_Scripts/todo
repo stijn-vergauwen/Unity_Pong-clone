@@ -1,0 +1,39 @@
+Pong game todo-list
+
+1. Setup (required):
+    - (DONE) multiple scene setup, scene loading through event channel SO
+    - (DONE) managers & stuff in core scene
+
+2. Game (required):
+    - (DONE) static environment
+    - (DONE) moveable paddle
+    - (DONE) adjustable keybindings (s & x, arrow keys), so 2 people can play
+    - (DONE) moving ball
+    - (DONE) ball interaction with paddle
+    - (DONE) bot enemy movement
+    - (DONE) score counter
+    - (DONE) win / lose screen (10 points to win)
+    - (DONE) pause menu (hit P key)
+
+3. Start screen (important):
+    - (DONE) Start buttons, for 1 & for 2 players
+    - (DONE) Difficulty select (easy, medium, hard) this changes ball speed & enemy speed
+    - (DONE) Exit button
+    - (DONE) In game pause menu, button to return to start screen. Or press esc to return
+
+4. Options screen (important):
+    - (DONE) Screen options (fullscreen, windowed)
+    - Audio toggle
+    - (DONE) Button to return to start screen
+
+5. Audio (nice to have):
+    - all sound 8bit arcade style
+    - boop sound for paddle hit
+    - small explosion sound when someone scores
+    - sound for win / lose thing
+    - small clicks or something for UI interaction
+
+6. VFX (nice to have):
+    - particle effects
+        - paddle hit
+        - score
